@@ -3,7 +3,11 @@ body {
 }
 h1 {
     color: blue;
+    font-family: verdana;
+    font-size: 120%
 }
 p {
     color: tomato;
+    font-family: verdana;
+    font-size: 100%;
 } 
