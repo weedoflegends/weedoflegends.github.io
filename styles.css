@@ -1,4 +1,4 @@
-body {
+Cbody {
     background-color: green;
 }
 h1 {
@@ -8,7 +8,7 @@ h1 {
 }
 h2 {
     color: blue;
-    font-family: comic-sans;
+    font-family: Comic Sans;
     font-size: 120%
 }
 p {
